@@ -1,6 +1,6 @@
-<html>
 <head>
 <title>
+Новая страница
 </title>
 </head>
 </html>
